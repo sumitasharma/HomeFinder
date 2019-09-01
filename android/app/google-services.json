@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "257928156482",
+    "firebase_url": "https://home-finder-e55ab.firebaseio.com",
+    "project_id": "home-finder-e55ab",
+    "storage_bucket": "home-finder-e55ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257928156482:android:a10228ef5732200b",
+        "android_client_info": {
+          "package_name": "com.sumitasharma.home_finder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257928156482-hu6sit95u7kncjkuhc7nqpv3rv8pgqvl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumitasharma.home_finder",
+            "certificate_hash": "d8fe72b6dfa0c9f5602ad194daa06a4137c9eff1"
+          }
+        },
+        {
+          "client_id": "257928156482-at1am3inesij09a0up9b2uvnfspocn04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumitasharma.home_finder",
+            "certificate_hash": "0092bcf08d49ae94e4f1e333a330fde798941805"
+          }
+        },
+        {
+          "client_id": "257928156482-6a27oga9pr1sd648f96lvh8ou25kf3a9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGoMIi0qVir_c9Hrba-bDNHy3g7vQXBgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257928156482-6a27oga9pr1sd648f96lvh8ou25kf3a9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
